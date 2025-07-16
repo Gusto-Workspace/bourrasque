@@ -14,13 +14,12 @@ const BlocPrezOne = () => {
             Bienvenue chez Bourrasque
           </h2>
           <p className="font-poiret leading-8 mb-8 text-2xl">
-            Votre nouveau restaurant au design
-            résolument moderne, situé au 21 rue du port blanc à Ploemeur vous souhaite la bienvenue !
-            Notre carte, pensée pour évoluer au fil des saisons, s’articule
-            autour d’entrées iodées, de savoureux plats terre & mer, de pizzas
-            napolitaines, de glaces et sorbets artisanaux, le
-            tout accompagné d’une sélection pointue de vins, bières artisanales
-            et cocktails maison.
+            Votre nouveau restaurant Bourrasque, situé au 21 rue du port blanc à Ploemeur
+            vous souhaite la bienvenue ! Notre carte, pensée pour évoluer au fil
+            des saisons, s’articule autour d’entrées iodées, de savoureux plats
+            terre & mer, de pizzas napolitaines, de glaces et sorbets
+            artisanaux, le tout accompagné d’une sélection pointue de vins,
+            bières artisanales et cocktails maison.
           </p>
           <NavLink to="/menus">
             <Button

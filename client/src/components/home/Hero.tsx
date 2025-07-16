@@ -23,12 +23,11 @@ const Hero = () => {
       <div className="absolute inset-0 bg-black opacity-20" />
 
       {/* Logo */}
-      {/* <div className="z-10 hero-logo">
-        <LogoSvg className="w-[350px] md:w-[700px] lg:w-auto" />
-      </div> */}
-
       <div className="z-10 hero-logo">
-        <img src="/img/hero-logo.webp" className="w-[350px] md:w-[700px] lg:w-auto"/>
+        <img
+          src="/img/hero-logo.webp"
+          className="w-[350px] md:w-[700px] lg:w-auto"
+        />
       </div>
 
       {/* Scroll indicator */}
