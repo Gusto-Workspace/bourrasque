@@ -23,7 +23,7 @@ const Menus = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Carte &amp; Menus | Bourrasque Lorient</title>
+        <title>Carte &amp; Menus | Bourrasque Kerroch</title>
 
         {/* SEO */}
         <meta
@@ -31,38 +31,38 @@ const Menus = () => {
           content="Découvrez la carte d’Bourrasque : poissons frais de la pêche locale, assiettes à partager et menus gourmands, midi et soir, élaborés à partir de produits bretons."
         />
 
-        <link rel="canonical" href="https://embrunslorient.fr/menus" />
+        <link rel="canonical" href="https://embrunsKerroch.fr/menus" />
 
         {/* Open Graph */}
         <meta
           property="og:title"
-          content="Carte & Menus | Bourrasque Lorient"
+          content="Carte & Menus | Bourrasque Kerroch"
         />
         <meta
           property="og:description"
           content="Explorez nos formules du midi, brunchs du week-end et assiettes à partager le soir, dans un cadre cosy face au port de pêche."
         />
-        <meta property="og:url" content="https://embrunslorient.fr/menus" />
+        <meta property="og:url" content="https://embrunsKerroch.fr/menus" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://embrunslorient.fr/img/og-default.webp"
+          content="https://embrunsKerroch.fr/img/og-default.webp"
         />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@embruns_lorient" />
+        <meta name="twitter:site" content="@embruns_Kerroch" />
         <meta
           name="twitter:title"
-          content="Carte & Menus | Bourrasque Lorient"
+          content="Carte & Menus | Bourrasque Kerroch"
         />
         <meta
           name="twitter:description"
-          content="Formules déjeuner, brunchs et assiettes à partager : vivez l’expérience gourmande d’Bourrasque à Lorient."
+          content="Formules déjeuner, brunchs et assiettes à partager : vivez l’expérience gourmande d’Bourrasque à Kerroch."
         />
         <meta
           name="twitter:image"
-          content="https://embrunslorient.fr/img/og-default.webp"
+          content="https://embrunsKerroch.fr/img/og-default.webp"
         />
       </Helmet>
 

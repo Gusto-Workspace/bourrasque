@@ -16,35 +16,35 @@ const Drinks = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Boissons | Bourrasque Lorient</title>
+        <title>Boissons | Bourrasque Kerroch</title>
 
         {/* SEO */}
         <meta
           name="description"
-          content="Découvrez notre sélection de boissons chez Bourrasque à Lorient : cocktails maison, bières artisanales bretonnes et vins de petits producteurs pour des instants conviviaux."
+          content="Découvrez notre sélection de boissons chez Bourrasque à Kerroch : cocktails maison, bières artisanales bretonnes et vins de petits producteurs pour des instants conviviaux."
         />
 
-        <link rel="canonical" href="https://embrunslorient.fr/drinks" />
+        <link rel="canonical" href="https://embrunsKerroch.fr/drinks" />
 
         {/* Open Graph */}
-        <meta property="og:title" content="Boissons | Bourrasque Lorient" />
+        <meta property="og:title" content="Boissons | Bourrasque Kerroch" />
         <meta
           property="og:description"
-          content="Savourez nos cocktails créatifs, bières locales et vins de petits domaines chez Bourrasque, bar-restaurant au cœur de Lorient."
+          content="Savourez nos cocktails créatifs, bières locales et vins de petits domaines chez Bourrasque, bar-restaurant au cœur de Kerroch."
         />
-        <meta property="og:url" content="https://embrunslorient.fr/drinks" />
+        <meta property="og:url" content="https://embrunsKerroch.fr/drinks" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://embrunslorient.fr/img/og-default.webp" />
+        <meta property="og:image" content="https://embrunsKerroch.fr/img/og-default.webp" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@embruns_lorient" />
-        <meta name="twitter:title" content="Boissons | Bourrasque Lorient" />
+        <meta name="twitter:site" content="@embruns_Kerroch" />
+        <meta name="twitter:title" content="Boissons | Bourrasque Kerroch" />
         <meta
           name="twitter:description"
-          content="Cocktails maison, bières artisanales et vins de petits producteurs : plongez dans l’univers des boissons d’Bourrasque, à Lorient."
+          content="Cocktails maison, bières artisanales et vins de petits producteurs : plongez dans l’univers des boissons d’Bourrasque, à Kerroch."
         />
-        <meta name="twitter:image" content="https://embrunslorient.fr/img/og-default.webp" />
+        <meta name="twitter:image" content="https://embrunsKerroch.fr/img/og-default.webp" />
       </Helmet>
 
       <div className="min-h-screen bg-bourrasque-darkBlue">

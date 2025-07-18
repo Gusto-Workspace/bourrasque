@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://embrunslorient.fr/sitemap.xml
+Sitemap: https://embrunsKerroch.fr/sitemap.xml

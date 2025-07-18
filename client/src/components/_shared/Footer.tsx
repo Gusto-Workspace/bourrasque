@@ -101,7 +101,7 @@ const Footer = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-bourrasque-orange transition-colors p-2"
-                    aria-label="Page Facebook Bourrasque Lorient"
+                    aria-label="Page Facebook Bourrasque Kerroch"
                   >
                     <Facebook size={24} />
                   </a>
@@ -112,7 +112,7 @@ const Footer = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-bourrasque-orange transition-colors p-2"
-                    aria-label="Page Instagram Bourrasque Lorient"
+                    aria-label="Page Instagram Bourrasque Kerroch"
                   >
                     <Instagram size={24} />
                   </a>
@@ -123,7 +123,7 @@ const Footer = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-bourrasque-orange transition-colors p-2"
-                    aria-label="Page Linkedin Bourrasque Lorient"
+                    aria-label="Page Linkedin Bourrasque Kerroch"
                   >
                     <Linkedin size={24} />
                   </a>
@@ -134,7 +134,7 @@ const Footer = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-bourrasque-orange transition-colors p-2"
-                    aria-label="Page Twitter Bourrasque Lorient"
+                    aria-label="Page Twitter Bourrasque Kerroch"
                   >
                     <Twitter size={24} />
                   </a>
@@ -145,7 +145,7 @@ const Footer = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-bourrasque-orange transition-colors p-2"
-                    aria-label="Page Youtube Bourrasque Lorient"
+                    aria-label="Page Youtube Bourrasque Kerroch"
                   >
                     <Youtube size={24} />
                   </a>

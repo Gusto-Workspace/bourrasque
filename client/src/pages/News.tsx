@@ -16,40 +16,40 @@ const News = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>News | Bourrasque Lorient</title>
+        <title>News | Bourrasque Kerroch</title>
 
         {/* SEO */}
         <meta
           name="description"
-          content="Restez informés des dernières actualités d’Bourrasque : soirées spéciales, nouveautés de la carte, événements et offres exclusives à Lorient."
+          content="Restez informés des dernières actualités d’Bourrasque : soirées spéciales, nouveautés de la carte, événements et offres exclusives à Kerroch."
         />
 
-        <link rel="canonical" href="https://embrunslorient.fr/news" />
+        <link rel="canonical" href="https://embrunsKerroch.fr/news" />
 
         {/* Open Graph */}
-        <meta property="og:title" content="News | Bourrasque Lorient" />
+        <meta property="og:title" content="News | Bourrasque Kerroch" />
         <meta
           property="og:description"
-          content="Découvrez les news d’Bourrasque: brunchs étendus, soirées cocktails, pop-up gourmands et toutes nos nouveautés face au port de Lorient."
+          content="Découvrez les news d’Bourrasque: brunchs étendus, soirées cocktails, pop-up gourmands et toutes nos nouveautés face au port de Kerroch."
         />
-        <meta property="og:url" content="https://embrunslorient.fr/news" />
+        <meta property="og:url" content="https://embrunsKerroch.fr/news" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://embrunslorient.fr/img/og-default.webp"
+          content="https://embrunsKerroch.fr/img/og-default.webp"
         />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@embruns_lorient" />
-        <meta name="twitter:title" content="Actualités | Bourrasque Lorient" />
+        <meta name="twitter:site" content="@embruns_Kerroch" />
+        <meta name="twitter:title" content="Actualités | Bourrasque Kerroch" />
         <meta
           name="twitter:description"
-          content="Soyez au courant des dernières news d’Bourrasque : événements, offres et nouveautés gourmandes à Lorient."
+          content="Soyez au courant des dernières news d’Bourrasque : événements, offres et nouveautés gourmandes à Kerroch."
         />
         <meta
           name="twitter:image"
-          content="https://embrunslorient.fr/img/og-default.webp"
+          content="https://embrunsKerroch.fr/img/og-default.webp"
         />
       </Helmet>
 
