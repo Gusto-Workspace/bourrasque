@@ -16,10 +16,10 @@ module.exports = async (req, res) => {
     const api = new SibApiV3Sdk.TransactionalEmailsApi();
     await api.sendTransacEmail({
       sender: {
-        email: "no-reply@embrunsKerroch.fr",
+        email: "no-reply@bourrasque-ploemeur.fr",
         name: "Formulaire Contact",
       },
-      to: [{ email: "embrunsKerroch@gmail.com", name: "Équipe Bourrasque" }],
+      to: [{ email: "bourrasque-ploemeur@gmail.com", name: "Équipe Bourrasque" }],
       subject: `Nouveau message : ${subject}`,
       htmlContent: `
         <p><strong>Nom :</strong> ${name}</p>

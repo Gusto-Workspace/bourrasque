@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://embrunsKerroch.fr/sitemap.xml
+Sitemap: https://bourrasque-ploemeur.fr/sitemap.xml

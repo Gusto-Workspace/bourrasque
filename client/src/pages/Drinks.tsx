@@ -24,7 +24,7 @@ const Drinks = () => {
           content="Découvrez notre sélection de boissons chez Bourrasque à Kerroch : cocktails maison, bières artisanales bretonnes et vins de petits producteurs pour des instants conviviaux."
         />
 
-        <link rel="canonical" href="https://embrunsKerroch.fr/drinks" />
+        <link rel="canonical" href="https://bourrasque-ploemeur.fr/drinks" />
 
         {/* Open Graph */}
         <meta property="og:title" content="Boissons | Bourrasque Kerroch" />
@@ -32,9 +32,9 @@ const Drinks = () => {
           property="og:description"
           content="Savourez nos cocktails créatifs, bières locales et vins de petits domaines chez Bourrasque, bar-restaurant au cœur de Kerroch."
         />
-        <meta property="og:url" content="https://embrunsKerroch.fr/drinks" />
+        <meta property="og:url" content="https://bourrasque-ploemeur.fr/drinks" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://embrunsKerroch.fr/img/og-default.webp" />
+        <meta property="og:image" content="https://bourrasque-ploemeur.fr/img/og-default.webp" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
@@ -42,9 +42,9 @@ const Drinks = () => {
         <meta name="twitter:title" content="Boissons | Bourrasque Kerroch" />
         <meta
           name="twitter:description"
-          content="Cocktails maison, bières artisanales et vins de petits producteurs : plongez dans l’univers des boissons d’Bourrasque, à Kerroch."
+          content="Cocktails maison, bières artisanales et vins de petits producteurs : plongez dans l’univers des boissons de Bourrasque, à Kerroch."
         />
-        <meta name="twitter:image" content="https://embrunsKerroch.fr/img/og-default.webp" />
+        <meta name="twitter:image" content="https://bourrasque-ploemeur.fr/img/og-default.webp" />
       </Helmet>
 
       <div className="min-h-screen bg-bourrasque-darkBlue">

@@ -21,22 +21,22 @@ const News = () => {
         {/* SEO */}
         <meta
           name="description"
-          content="Restez informés des dernières actualités d’Bourrasque : soirées spéciales, nouveautés de la carte, événements et offres exclusives à Kerroch."
+          content="Restez informés des dernières actualités de Bourrasque : soirées spéciales, nouveautés de la carte, événements et offres exclusives à Kerroch."
         />
 
-        <link rel="canonical" href="https://embrunsKerroch.fr/news" />
+        <link rel="canonical" href="https://bourrasque-ploemeur.fr/news" />
 
         {/* Open Graph */}
         <meta property="og:title" content="News | Bourrasque Kerroch" />
         <meta
           property="og:description"
-          content="Découvrez les news d’Bourrasque: brunchs étendus, soirées cocktails, pop-up gourmands et toutes nos nouveautés face au port de Kerroch."
+          content="Restez informés des dernières actualités de Bourrasque : soirées spéciales, nouveautés de la carte, événements et offres exclusives à Kerroch."
         />
-        <meta property="og:url" content="https://embrunsKerroch.fr/news" />
+        <meta property="og:url" content="https://bourrasque-ploemeur.fr/news" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://embrunsKerroch.fr/img/og-default.webp"
+          content="https://bourrasque-ploemeur.fr/img/og-default.webp"
         />
 
         {/* Twitter Card */}
@@ -45,11 +45,11 @@ const News = () => {
         <meta name="twitter:title" content="Actualités | Bourrasque Kerroch" />
         <meta
           name="twitter:description"
-          content="Soyez au courant des dernières news d’Bourrasque : événements, offres et nouveautés gourmandes à Kerroch."
+          content="Restez informés des dernières actualités de Bourrasque : soirées spéciales, nouveautés de la carte, événements et offres exclusives à Kerroch."
         />
         <meta
           name="twitter:image"
-          content="https://embrunsKerroch.fr/img/og-default.webp"
+          content="https://bourrasque-ploemeur.fr/img/og-default.webp"
         />
       </Helmet>
 

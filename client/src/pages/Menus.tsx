@@ -28,10 +28,10 @@ const Menus = () => {
         {/* SEO */}
         <meta
           name="description"
-          content="Découvrez la carte d’Bourrasque : poissons frais de la pêche locale, assiettes à partager et menus gourmands, midi et soir, élaborés à partir de produits bretons."
+          content="Découvrez la carte de Bourrasque : pizzas, assiettes à partager et menus gourmands, midi et soir, élaborés à partir de produits bretons."
         />
 
-        <link rel="canonical" href="https://embrunsKerroch.fr/menus" />
+        <link rel="canonical" href="https://bourrasque-ploemeur.fr/menus" />
 
         {/* Open Graph */}
         <meta
@@ -40,13 +40,16 @@ const Menus = () => {
         />
         <meta
           property="og:description"
-          content="Explorez nos formules du midi, brunchs du week-end et assiettes à partager le soir, dans un cadre cosy face au port de pêche."
+          content="Découvrez la carte de Bourrasque : pizzas, assiettes à partager et menus gourmands, midi et soir, élaborés à partir de produits bretons."
         />
-        <meta property="og:url" content="https://embrunsKerroch.fr/menus" />
+        <meta
+          property="og:url"
+          content="https://bourrasque-ploemeur.fr/menus"
+        />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://embrunsKerroch.fr/img/og-default.webp"
+          content="https://bourrasque-ploemeur.fr/img/og-default.webp"
         />
 
         {/* Twitter Card */}
@@ -58,11 +61,11 @@ const Menus = () => {
         />
         <meta
           name="twitter:description"
-          content="Formules déjeuner, brunchs et assiettes à partager : vivez l’expérience gourmande d’Bourrasque à Kerroch."
+          content="Découvrez la carte de Bourrasque : pizzas, assiettes à partager et menus gourmands, midi et soir, élaborés à partir de produits bretons."
         />
         <meta
           name="twitter:image"
-          content="https://embrunsKerroch.fr/img/og-default.webp"
+          content="https://bourrasque-ploemeur.fr/img/og-default.webp"
         />
       </Helmet>
 

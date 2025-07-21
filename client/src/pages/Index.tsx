@@ -30,22 +30,22 @@ const Index = () => {
         />
         <meta name="author" content="Bourrasque Kerroch" />
 
-        <link rel="canonical" href="https://embrunsKerroch.fr/" />
+        <link rel="canonical" href="https://bourrasque-ploemeur.fr/" />
 
         {/* Open Graph */}
         <meta property="og:locale" content="fr_FR" />
         <meta property="og:site_name" content="Bourrasque" />
-        <meta
-          property="og:title"
-          content="Bourrasque - Restaurant à Kerroch"
-        />
+        <meta property="og:title" content="Bourrasque - Restaurant à Kerroch" />
         <meta
           property="og:description"
-          content="Venez découvrir Bourrasque à Kerroch : brunch le week-end, pêche du jour, cocktails maison et bières artisanales dans une ambiance cosy."
+          content="Venez découvrir Bourrasque à Kerroch : pizzas le soir, glaces, cocktails maison et bières artisanales dans une ambiance cosy."
         />
-        <meta property="og:url" content="https://embrunsKerroch.fr" />
+        <meta property="og:url" content="https://bourrasque-ploemeur.fr" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://embrunsKerroch.fr/img/og-default.webp" />
+        <meta
+          property="og:image"
+          content="https://bourrasque-ploemeur.fr/img/og-default.webp"
+        />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
@@ -56,9 +56,12 @@ const Index = () => {
         />
         <meta
           name="twitter:description"
-          content="Brunch gourmand, plats de saison, pêche du jour et cocktails maison : vivez l’expérience Bourrasque à Kerroch."
+          content="Venez découvrir Bourrasque à Kerroch : pizzas le soir, glaces, cocktails maison et bières artisanales dans une ambiance cosy."
         />
-        <meta name="twitter:image" content="https://embrunsKerroch.fr/img/og-default.webp" />
+        <meta
+          name="twitter:image"
+          content="https://bourrasque-ploemeur.fr/img/og-default.webp"
+        />
       </Helmet>
 
       <div className="min-h-screen overflow-hidden bg-bourrasque-darkBlue">
