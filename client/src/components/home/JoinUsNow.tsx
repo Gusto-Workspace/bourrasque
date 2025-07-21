@@ -26,7 +26,7 @@ const JoinUsNow = (props: any) => {
         <div
           className="relative w-full md:w-[50%] h-[440px] z-30 rounded-[40px] shadow-lg bg-cover reveal-from-left hover-scale"
           style={{
-            backgroundImage: "url('/img/resto-3.jpeg')",
+            backgroundImage: "url('/img/resto-3.webp')",
             backgroundPosition: "center 50%",
           }}
         />
