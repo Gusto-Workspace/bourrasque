@@ -24,7 +24,7 @@ const News = () => {
           content="Restez informés des dernières actualités de Bourrasque : soirées spéciales, nouveautés de la carte, événements et offres exclusives à Kerroch."
         />
 
-        <link rel="canonical" href="https://bourrasquekerroch.fr/"news" />
+        <link rel="canonical" href="https://bourrasquekerroch.fr/news" />
 
         {/* Open Graph */}
         <meta property="og:title" content="News | Bourrasque Kerroch" />
@@ -32,11 +32,11 @@ const News = () => {
           property="og:description"
           content="Restez informés des dernières actualités de Bourrasque : soirées spéciales, nouveautés de la carte, événements et offres exclusives à Kerroch."
         />
-        <meta property="og:url" content="https://bourrasquekerroch.fr/"news" />
+        <meta property="og:url" content="https://bourrasquekerroch.fr/news" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://bourrasquekerroch.fr/"img/og-default.webp"
+          content="https://bourrasquekerroch.fr/img/og-default.webp"
         />
 
         {/* Twitter Card */}
@@ -49,7 +49,7 @@ const News = () => {
         />
         <meta
           name="twitter:image"
-          content="https://bourrasquekerroch.fr/"img/og-default.webp"
+          content="https://bourrasquekerroch.fr/img/og-default.webp"
         />
       </Helmet>
 

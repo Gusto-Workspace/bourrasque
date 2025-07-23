@@ -31,7 +31,7 @@ const Menus = () => {
           content="Découvrez la carte de Bourrasque : pizzas, assiettes à partager et menus gourmands, midi et soir, élaborés à partir de produits bretons."
         />
 
-        <link rel="canonical" href="https://bourrasquekerroch.fr/"menus" />
+        <link rel="canonical" href="https://bourrasquekerroch.fr/menus" />
 
         {/* Open Graph */}
         <meta
@@ -44,12 +44,12 @@ const Menus = () => {
         />
         <meta
           property="og:url"
-          content="https://bourrasquekerroch.fr/"menus"
+          content="https://bourrasquekerroch.fr/menus"
         />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://bourrasquekerroch.fr/"img/og-default.webp"
+          content="https://bourrasquekerroch.fr/img/og-default.webp"
         />
 
         {/* Twitter Card */}
@@ -65,7 +65,7 @@ const Menus = () => {
         />
         <meta
           name="twitter:image"
-          content="https://bourrasquekerroch.fr/"img/og-default.webp"
+          content="https://bourrasquekerroch.fr/img/og-default.webp"
         />
       </Helmet>
 
