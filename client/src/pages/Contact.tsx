@@ -23,7 +23,7 @@ const Contact = () => {
           content="Contactez Bourrasque à Kerroch pour toute réservation, question ou événement."
         />
 
-        <link rel="canonical" href="https://bourrasque-ploemeur.fr/contact" />
+        <link rel="canonical" href="https://bourrasquekerroch.fr/"contact" />
 
 
         {/* Open Graph */}
@@ -32,9 +32,9 @@ const Contact = () => {
           property="og:description"
           content="Réservez votre table ou demandez des informations : contactez Bourrasque, bar-restaurant au cœur de Kerroch."
         />
-        <meta property="og:url" content="https://bourrasque-ploemeur.fr/contact" />
+        <meta property="og:url" content="https://bourrasquekerroch.fr/"contact" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://bourrasque-ploemeur.fr/img/og-default.webp" />
+        <meta property="og:image" content="https://bourrasquekerroch.fr/"img/og-default.webp" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
@@ -44,7 +44,7 @@ const Contact = () => {
           name="twitter:description"
           content="Contactez Bourrasque à Kerroch pour réserver, poser vos questions ou organiser un événement dans notre bar-restaurant convivial."
         />
-        <meta name="twitter:image" content="https://bourrasque-ploemeur.fr/img/og-default.webp" />
+        <meta name="twitter:image" content="https://bourrasquekerroch.fr/"img/og-default.webp" />
       </Helmet>
 
       <div className="min-h-screen bg-bourrasque-darkBlue overflow-hidden">

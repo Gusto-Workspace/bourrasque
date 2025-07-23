@@ -30,7 +30,7 @@ const Index = () => {
         />
         <meta name="author" content="Bourrasque Kerroch" />
 
-        <link rel="canonical" href="https://bourrasque-ploemeur.fr/" />
+        <link rel="canonical" href="https://bourrasquekerroch.fr/"" />
 
         {/* Open Graph */}
         <meta property="og:locale" content="fr_FR" />
@@ -44,7 +44,7 @@ const Index = () => {
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://bourrasque-ploemeur.fr/img/og-default.webp"
+          content="https://bourrasquekerroch.fr/"img/og-default.webp"
         />
 
         {/* Twitter Card */}
@@ -60,7 +60,7 @@ const Index = () => {
         />
         <meta
           name="twitter:image"
-          content="https://bourrasque-ploemeur.fr/img/og-default.webp"
+          content="https://bourrasquekerroch.fr/"img/og-default.webp"
         />
       </Helmet>
 

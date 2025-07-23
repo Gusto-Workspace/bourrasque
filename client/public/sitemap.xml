@@ -5,7 +5,7 @@
 >
   <!-- Page d’accueil -->
   <url>
-    <loc>https://bourrasque-ploemeur.fr/</loc>
+    <loc>https://bourrasquekerroch.fr/"</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -13,7 +13,7 @@
 
   <!-- Carte & Menus -->
   <url>
-    <loc>https://bourrasque-ploemeur.fr/menus</loc>
+    <loc>https://bourrasquekerroch.fr/"menus</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -21,7 +21,7 @@
 
   <!-- Boissons -->
   <url>
-    <loc>https://bourrasque-ploemeur.fr/drinks</loc>
+    <loc>https://bourrasquekerroch.fr/"drinks</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -29,7 +29,7 @@
 
   <!-- Actualités -->
   <url>
-    <loc>https://bourrasque-ploemeur.fr/news</loc>
+    <loc>https://bourrasquekerroch.fr/"news</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -37,7 +37,7 @@
 
   <!-- Contact -->
   <url>
-    <loc>https://bourrasque-ploemeur.fr/contact</loc>
+    <loc>https://bourrasquekerroch.fr/"contact</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

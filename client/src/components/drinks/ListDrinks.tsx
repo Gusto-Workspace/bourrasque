@@ -128,7 +128,7 @@ const ListDrinks = (props: any) => {
                             )}
                           </div>
                           <span className="font-poiret font-medium text-2xl text-bourrasque-orange whitespace-nowrap">
-                            {drink.price} €
+                            {drink.price} {drink.price && "€"}
                           </span>
                         </div>
                         <hr className="hr-anim border-0 w-0 opacity-20 bg-bourrasque-cream h-[2px] rounded-full transition-width duration-1000 ease-out block" />
@@ -155,7 +155,7 @@ const ListDrinks = (props: any) => {
                         )}
                       </div>
                       <span className="font-poiret font-medium text-2xl text-bourrasque-orange whitespace-nowrap">
-                        {drink.price} €
+                        {drink.price} {drink.price && "€"}
                       </span>
                     </div>
                     <hr className="hr-anim border-0 w-0 opacity-20 bg-bourrasque-cream h-[2px] rounded-full transition-width duration-1000 ease-out block" />

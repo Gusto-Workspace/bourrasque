@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bourrasque-ploemeur.fr/sitemap.xml
+Sitemap: https://bourrasquekerroch.fr/"sitemap.xml
