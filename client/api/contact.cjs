@@ -19,8 +19,8 @@ module.exports = async (req, res) => {
         email: "no-reply@bourrasquekerroch.fr",
         name: "Formulaire Contact Bourrasque",
       },
-      to: [{ email: "embrunslorient@gmail.com", name: "Équipe Bourrasque" }],
-      subject: `Nouveau message pour Bourrasque: ${subject}`,
+      to: [{ email: "bourrasquekerroch@gmail.com", name: "Équipe Bourrasque" }],
+      subject: `Nouveau message : ${subject}`,
       htmlContent: `
         <p><strong>Nom :</strong> ${name}</p>
         <p><strong>Email :</strong> ${email}</p>
