@@ -9,7 +9,7 @@ const ContactInfo = (props: any) => {
 
   return (
     <motion.div
-      className="bg-bourrasque-blue p-8 rounded-[40px] shadow-lg h-fit"
+      className="bg-bourrasque-blue p-8 rounded-[40px] shadow-lg h-fit mx-auto max-w-[800px]"
       initial={{ opacity: 0, x: 50 }}
       whileInView={{ opacity: 1, x: 0 }}
       transition={{ duration: 0.6, delay: 0.4 }}
