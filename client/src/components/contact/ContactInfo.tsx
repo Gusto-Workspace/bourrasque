@@ -26,7 +26,16 @@ const ContactInfo = (props: any) => {
           </div>
           <div>
             <h3 className="font-bold text-lg mb-1">Téléphone</h3>
-            <p className="text-bourrasque-cream/40">{restaurantData?.phone}</p>
+            <a
+              href={
+                restaurantData?.phone
+                  ? `tel:${restaurantData.phone}`
+                  : undefined
+              }
+              className="text-bourrasque-cream/40"
+            >
+              {restaurantData?.phone}
+            </a>{" "}
           </div>
         </div>
 
