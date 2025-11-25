@@ -35,7 +35,7 @@ const ContactInfo = (props: any) => {
               className="text-bourrasque-cream/40"
             >
               {restaurantData?.phone}
-            </a>{" "}
+            </a>
           </div>
         </div>
 
