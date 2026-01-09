@@ -40,10 +40,11 @@ const ListCarte = (props: any) => {
                       </span>
 
                       <span className="flex-grow border-b border-dotted border-gray-300 mx-4 min-w-[50px]" />
-
-                      <span className="font-poiret font-medium text-2xl text-bourrasque-orange whitespace-nowrap">
-                        {dish.price} {dish.price && "€"}
-                      </span>
+                      {dish.price && (
+                        <span className="font-poiret font-medium text-2xl text-bourrasque-orange whitespace-nowrap">
+                          {dish.price} {dish.price && "€"}
+                        </span>
+                      )}
                     </div>
 
                     <p className="mt-1 font-poiret text-lg text-bourrasque-cream/40">
